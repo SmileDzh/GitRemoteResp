@@ -303,7 +303,7 @@ urlAddress      https://github.com/SmileDzh/GitRemoteResp.git (push)
 开始推送：
 
 ```c
-$ git push urlAddress master      //选择将master分支的内容推送到urlAddress   
+$ git push urlAddress master      //选择将master分支的内容推送到urlAddgiress   
 ```
 
 ![image-20201127133534506](C:\Users\SmileDu\AppData\Roaming\Typora\typora-user-images\image-20201127133534506.png)
